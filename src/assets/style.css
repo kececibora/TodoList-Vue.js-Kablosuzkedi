@@ -446,6 +446,7 @@ body {
   background-color: #e9ebee;
   padding: 10px;
   background-image: url("https://cdn.pixabay.com/photo/2021/10/30/08/07/desert-6753729_960_720.jpg");
+  background-repeat: no-repeat;
 }
 
 body #app {
